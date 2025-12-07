@@ -1,4 +1,4 @@
-# DFWe: LOSO Fine-tuning and Distillation
+# DFWe:
 
 This directory contains two scripts:
 - `finetune.py`: Fine-tune audio classification models in a speaker-independent (LOSO) setup
